@@ -7,7 +7,7 @@ the website link is https://brandhook.com.bd/
 
 
 ## Technology:
-- Tool: selenium
+- Tool: Cypress
 - IDE: VSCODE
 - Language: JAVAScript
 - Test_Runner: Mocha
