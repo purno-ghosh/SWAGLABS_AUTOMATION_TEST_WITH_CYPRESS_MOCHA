@@ -1,4 +1,4 @@
-# BrandHook_B2C_Automation_Test_With_Java_POM
+# SWAGLABS_AUTOMATION_TEST_WITH_CYPRESS_MOCHA Public
 
 Web-automation test project , In this project work with Cypress , Mocha, Json,
  using javasript language.
